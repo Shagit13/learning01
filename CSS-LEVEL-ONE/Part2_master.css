@@ -1,0 +1,27 @@
+body{
+    background: url('https://images.hdqwalls.com/wallpapers/beautiful-beach-sunset-4k-5r.jpg');
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: red;
+    border-color: blue;
+    border-width: 2px;
+    border-style: dotted;
+    /* width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    padding: auto; */
+}
+
+p{
+    color: yellow;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+span{
+    color: green;
+    font-weight: bold;
+}
